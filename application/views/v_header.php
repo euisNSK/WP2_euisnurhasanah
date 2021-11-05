@@ -3,7 +3,8 @@
 <head>
 	<meta charset="utf-8">
 	<title>web prog II merancang templat sederhana dengan codoigniter</title>
-	<link rel="stylesheet" type="text/css" href="<?php echo base_url() ?>assets/css/stylebuku.css">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url() 
+	?>assets/css/stylebuku.css">
 </head>
 <body>
 	<div id="wrapper">
